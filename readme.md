@@ -1,0 +1,1 @@
+This repo is for exercises in the classification module of Codeup's Data Science program.
